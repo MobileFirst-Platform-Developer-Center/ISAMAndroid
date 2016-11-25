@@ -1,4 +1,4 @@
-IBM Mobile First Platform Foundation
+IBM MobileFirst Foundation
 ===
 
 ## ISAMAndroid
@@ -14,6 +14,7 @@ The ResourceAdapter adapter can be found in https://github.com/MobileFirst-Platf
 
   * `mfpdev app register` - to register the application.
   * `mfpdev app push` - to map the `accessRestricted` scope to the `LtpaBasedSSO` security check.
+>NOTE: Ensure 
 3. Update the **config.xml**'s `mfp:server` tag with the IP and port for your configured ISAM server instance.
 
 ### Supported Levels

@@ -3,48 +3,129 @@
 
     <item
         is-multidex="false"
-        jar="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jar="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6f75c28ed5600e5b36b876a262f0f2d133fcd789.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_03cd89648a2faae6f86850dd055dd849c3a30b68.jar" />
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_4fa744e9b1f57188b75c0b105d3ce7fbf2085198.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/exploded-aar/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation/8.0.2016102017/jars/libs/okio-1.6.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="f2cc9feb5d619700c5c0102a05eda2a5c44a53e9">
-        <dex dex="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_5785b47bc1aee21fafcf8af2f19f145f0bfe488e.jar" />
+        sha1="78d62a5e99d44997a74b9945ffd76e0c59a086a1">
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/pre-dexed/debug/okio-1.6.0_52c6b168a85dbc39d2764c406f599bc49dd759cc.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jar="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_01481a4f25b85f46d831fa3a1b38783fb47b7d49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_2e0896284d40eac8dd183389c9070ca31fdfc10d.jar" />
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_2d4db83d190f30f8e4a9a0d828c74ebb170bbd99.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jar="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_ab8ca736e3bf19ca77017ac9a8c38718de6f52ee.jar" />
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_eba68923f46946924ba693392e10039c5a13fe0f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jar="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/exploded-aar/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation/8.0.2016102017/jars/libs/okhttp-2.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e057dc429178ca65dea454b1564801268e26327f">
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/pre-dexed/debug/okhttp-2.7.0_c5429db9eaf583846ff5cdd300e3623259943904.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_646096c3c499e110a9f6a7a42a13e2bc80987a3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_12d9f856f6cb53d94c14d70d4c8cd2f857955c8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f9816891a99255f24ee637dbe1f2a42bddd28c5">
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/pre-dexed/debug/instant-run_100b710327d9b07ea11283eba64d4f3bc01d4b2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_05995b1e64737a0a4e73d59aa9ce337748c8517e.jar" />
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_d91b18a49c79e823ce18810c27d06f58ddc0766a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_14c4cacf986d4aabfd2e708466dfc89528954b35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_5d843475fc8b3bca32327ee97f913938e0cf4d19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0cb8eea5884e3cf869ec43330092a060a52e0fbf">
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_7642f2cf183ac10e6bb5ef992e5132860129178d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -53,133 +134,52 @@
         optimize="true"
         revision="24.0.3"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_d305773c3c8872fb1a8134ff24e4476521d766e4.jar" />
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_d305773c3c8872fb1a8134ff24e4476521d766e4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ee73c7c0678b169be80acfe7150121b037c6f461.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f4ae38b83567b326b0d6b8f11e6574b60016823b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_19489839b91c43bd923de5d9a8cbd753bcb30d07.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_55f87d893a82943851eb83aa7a70cd0567e0ea65.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/exploded-aar/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation/8.0.2016102017/jars/libs/okio-1.6.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="78d62a5e99d44997a74b9945ffd76e0c59a086a1">
-        <dex dex="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/pre-dexed/debug/okio-1.6.0_551e2e8861621637d040a0cfb4c2392b91f003c8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/exploded-aar/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation/8.0.2016102017/jars/classes.jar"
+        jar="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/exploded-aar/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation/8.0.2016102017/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="72e080377342fcea7be8606a245c6638a812d0f0">
-        <dex dex="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/pre-dexed/debug/com.ibm.mobile.foundation-ibmmobilefirstplatformfoundation-8.0.2016102017_ca4673cec8360161a6d8fc8185f67ba9070e2f0b.jar" />
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/pre-dexed/debug/com.ibm.mobile.foundation-ibmmobilefirstplatformfoundation-8.0.2016102017_e2573177a6d6a04494bb9aa1004d99c8aa9e54d7.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jar="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_4b59b46b453f314115c7986b0d54411ed814a97d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_65c99f1411f22b54fb332b4426af5a03d6a98d3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_32660fc5e51686c3520a9fc27c5e419c61d605aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_e4a595c2f6051e40fde193ea21b126aa7131e73e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/exploded-aar/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation/8.0.2016102017/jars/libs/okhttp-2.7.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="e057dc429178ca65dea454b1564801268e26327f">
-        <dex dex="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/pre-dexed/debug/okhttp-2.7.0_9bd355d085d6b27c8fcd8b61241688cf0297c93d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_4d6cac382a792295b50b9b1dcc9e87ec295c6eb6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_33006e46c4b1a16929beb44523aa027647e46048.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a9d674d7988c40fa296c0166a7fab397db81c4c7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ae103807904d071811923a54ea864179811872d4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="38d237a560d937b75f30e059cdb7f8c838a98a4d">
-        <dex dex="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/pre-dexed/debug/instant-run_34f00c05599854c64193e2901f01c9785b89ca2f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/pranab/Documents/Work/MobileFirstProjects/IsamAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_11215777bdd93beaa53fd2c4673eff692c5613c1.jar" />
+        <dex dex="/Users/pranab/Documents/Work/gitRepo/IsamLTPA-release80/ISAMAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_36eefe582b64a05464a4c226b9bd934276b717dc.jar" />
     </item>
 
 </items>
